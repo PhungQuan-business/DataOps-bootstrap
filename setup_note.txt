@@ -1,0 +1,2 @@
+- cần phải tạo một thư mục share để share dữ liệu giữa container và local file (cái này không biết có làm ảnh hưởng gì đến size của image không)
+- Tạo 1 thư mục include/data, cấp full quyền cho nó 777

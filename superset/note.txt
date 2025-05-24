@@ -1,3 +1,0 @@
-Depending on your local setup, especially if you have less than 16GB of memory, it may be very slow to perform those operations. In this case, we recommend you set the env var BUILD_SUPERSET_FRONTEND_IN_DOCKER to false, and to run this locally instead in a terminal. Simply trigger npm i && npm run dev, this should be MUCH faster.
-
-Depending on your hardware, setup time can take arounf 15-20 minutes.
